@@ -1,2 +1,2 @@
 # app_crawler
-Appstore app crawler
+Appstore app review crawler
