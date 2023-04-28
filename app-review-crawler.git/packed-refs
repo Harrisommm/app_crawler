@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+a26d41a4890638c86288abf5db6fe87cfded4ce6 refs/heads/feat/scaffold-app
+7540fbdd8e8f30e9f006ba518fda16e1631e18df refs/heads/issue1
+3963d82f4f8da95158fb5a41557164318e6e89eb refs/heads/main
