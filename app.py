@@ -3,7 +3,7 @@ import xmltodict
 import requests
 import os
 import time
-1
+import sys
 
 app_info = {
     'burnfit': 
@@ -180,4 +180,6 @@ if __name__ == '__main__':
     else:
         print("Invalid input. Please enter a number between 1 and 4.")
         sys.exit(1)
+    
+    main(app_id, app_url)
     
